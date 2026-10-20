@@ -1,0 +1,356 @@
+{
+  "source": "pupdate 5.8 JotegoAnalogizerSettingsService / UserOptions.GenerateUserOptions",
+  "note": "crt letter (a-i, x) and snac letter (a-g) as typed in the wizard; bytes as written to Assets/jtpatreon/common/crtcfg.bin",
+  "vectors": [
+    {
+      "crt": "a",
+      "snac": "a",
+      "bytes": "82 00 00 00"
+    },
+    {
+      "crt": "a",
+      "snac": "b",
+      "bytes": "82 00 10 00"
+    },
+    {
+      "crt": "a",
+      "snac": "c",
+      "bytes": "82 00 20 00"
+    },
+    {
+      "crt": "a",
+      "snac": "d",
+      "bytes": "82 00 30 00"
+    },
+    {
+      "crt": "a",
+      "snac": "e",
+      "bytes": "82 00 50 00"
+    },
+    {
+      "crt": "a",
+      "snac": "f",
+      "bytes": "82 00 60 00"
+    },
+    {
+      "crt": "a",
+      "snac": "g",
+      "bytes": "82 01 00 00"
+    },
+    {
+      "crt": "b",
+      "snac": "a",
+      "bytes": "c0 80 00 00"
+    },
+    {
+      "crt": "b",
+      "snac": "b",
+      "bytes": "c0 80 10 00"
+    },
+    {
+      "crt": "b",
+      "snac": "c",
+      "bytes": "c0 80 20 00"
+    },
+    {
+      "crt": "b",
+      "snac": "d",
+      "bytes": "c0 80 30 00"
+    },
+    {
+      "crt": "b",
+      "snac": "e",
+      "bytes": "c0 80 50 00"
+    },
+    {
+      "crt": "b",
+      "snac": "f",
+      "bytes": "c0 80 60 00"
+    },
+    {
+      "crt": "b",
+      "snac": "g",
+      "bytes": "c0 81 00 00"
+    },
+    {
+      "crt": "c",
+      "snac": "a",
+      "bytes": "a0 80 00 00"
+    },
+    {
+      "crt": "c",
+      "snac": "b",
+      "bytes": "a0 80 10 00"
+    },
+    {
+      "crt": "c",
+      "snac": "c",
+      "bytes": "a0 80 20 00"
+    },
+    {
+      "crt": "c",
+      "snac": "d",
+      "bytes": "a0 80 30 00"
+    },
+    {
+      "crt": "c",
+      "snac": "e",
+      "bytes": "a0 80 50 00"
+    },
+    {
+      "crt": "c",
+      "snac": "f",
+      "bytes": "a0 80 60 00"
+    },
+    {
+      "crt": "c",
+      "snac": "g",
+      "bytes": "a0 81 00 00"
+    },
+    {
+      "crt": "d",
+      "snac": "a",
+      "bytes": "90 00 00 00"
+    },
+    {
+      "crt": "d",
+      "snac": "b",
+      "bytes": "90 00 10 00"
+    },
+    {
+      "crt": "d",
+      "snac": "c",
+      "bytes": "90 00 20 00"
+    },
+    {
+      "crt": "d",
+      "snac": "d",
+      "bytes": "90 00 30 00"
+    },
+    {
+      "crt": "d",
+      "snac": "e",
+      "bytes": "90 00 50 00"
+    },
+    {
+      "crt": "d",
+      "snac": "f",
+      "bytes": "90 00 60 00"
+    },
+    {
+      "crt": "d",
+      "snac": "g",
+      "bytes": "90 01 00 00"
+    },
+    {
+      "crt": "e",
+      "snac": "a",
+      "bytes": "98 00 00 00"
+    },
+    {
+      "crt": "e",
+      "snac": "b",
+      "bytes": "98 00 10 00"
+    },
+    {
+      "crt": "e",
+      "snac": "c",
+      "bytes": "98 00 20 00"
+    },
+    {
+      "crt": "e",
+      "snac": "d",
+      "bytes": "98 00 30 00"
+    },
+    {
+      "crt": "e",
+      "snac": "e",
+      "bytes": "98 00 50 00"
+    },
+    {
+      "crt": "e",
+      "snac": "f",
+      "bytes": "98 00 60 00"
+    },
+    {
+      "crt": "e",
+      "snac": "g",
+      "bytes": "98 01 00 00"
+    },
+    {
+      "crt": "f",
+      "snac": "a",
+      "bytes": "80 10 00 00"
+    },
+    {
+      "crt": "f",
+      "snac": "b",
+      "bytes": "80 10 10 00"
+    },
+    {
+      "crt": "f",
+      "snac": "c",
+      "bytes": "80 10 20 00"
+    },
+    {
+      "crt": "f",
+      "snac": "d",
+      "bytes": "80 10 30 00"
+    },
+    {
+      "crt": "f",
+      "snac": "e",
+      "bytes": "80 10 50 00"
+    },
+    {
+      "crt": "f",
+      "snac": "f",
+      "bytes": "80 10 60 00"
+    },
+    {
+      "crt": "f",
+      "snac": "g",
+      "bytes": "80 11 00 00"
+    },
+    {
+      "crt": "g",
+      "snac": "a",
+      "bytes": "80 30 00 00"
+    },
+    {
+      "crt": "g",
+      "snac": "b",
+      "bytes": "80 30 10 00"
+    },
+    {
+      "crt": "g",
+      "snac": "c",
+      "bytes": "80 30 20 00"
+    },
+    {
+      "crt": "g",
+      "snac": "d",
+      "bytes": "80 30 30 00"
+    },
+    {
+      "crt": "g",
+      "snac": "e",
+      "bytes": "80 30 50 00"
+    },
+    {
+      "crt": "g",
+      "snac": "f",
+      "bytes": "80 30 60 00"
+    },
+    {
+      "crt": "g",
+      "snac": "g",
+      "bytes": "80 31 00 00"
+    },
+    {
+      "crt": "h",
+      "snac": "a",
+      "bytes": "80 50 00 00"
+    },
+    {
+      "crt": "h",
+      "snac": "b",
+      "bytes": "80 50 10 00"
+    },
+    {
+      "crt": "h",
+      "snac": "c",
+      "bytes": "80 50 20 00"
+    },
+    {
+      "crt": "h",
+      "snac": "d",
+      "bytes": "80 50 30 00"
+    },
+    {
+      "crt": "h",
+      "snac": "e",
+      "bytes": "80 50 50 00"
+    },
+    {
+      "crt": "h",
+      "snac": "f",
+      "bytes": "80 50 60 00"
+    },
+    {
+      "crt": "h",
+      "snac": "g",
+      "bytes": "80 51 00 00"
+    },
+    {
+      "crt": "i",
+      "snac": "a",
+      "bytes": "80 70 00 00"
+    },
+    {
+      "crt": "i",
+      "snac": "b",
+      "bytes": "80 70 10 00"
+    },
+    {
+      "crt": "i",
+      "snac": "c",
+      "bytes": "80 70 20 00"
+    },
+    {
+      "crt": "i",
+      "snac": "d",
+      "bytes": "80 70 30 00"
+    },
+    {
+      "crt": "i",
+      "snac": "e",
+      "bytes": "80 70 50 00"
+    },
+    {
+      "crt": "i",
+      "snac": "f",
+      "bytes": "80 70 60 00"
+    },
+    {
+      "crt": "i",
+      "snac": "g",
+      "bytes": "80 71 00 00"
+    },
+    {
+      "crt": "x",
+      "snac": "a",
+      "bytes": "00 00 00 00"
+    },
+    {
+      "crt": "x",
+      "snac": "b",
+      "bytes": "00 00 10 00"
+    },
+    {
+      "crt": "x",
+      "snac": "c",
+      "bytes": "00 00 20 00"
+    },
+    {
+      "crt": "x",
+      "snac": "d",
+      "bytes": "00 00 30 00"
+    },
+    {
+      "crt": "x",
+      "snac": "e",
+      "bytes": "00 00 50 00"
+    },
+    {
+      "crt": "x",
+      "snac": "f",
+      "bytes": "00 00 60 00"
+    },
+    {
+      "crt": "x",
+      "snac": "g",
+      "bytes": "00 01 00 00"
+    }
+  ]
+}
