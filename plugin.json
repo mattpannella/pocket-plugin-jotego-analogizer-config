@@ -1,5 +1,5 @@
 {
   "name": "Jotego Analogizer Config",
-  "description": "Analogizer settings wizard for Jotego cores. Asks for the analog video output and the SNAC controller, and writes Assets/jtpatreon/common/crtcfg.bin. Run it again to change the settings; the current values are marked.",
+  "description": "Analogizer settings wizard for Jotego cores. writes Assets/jtpatreon/common/crtcfg.bin",
   "allowed_hosts": []
 }
